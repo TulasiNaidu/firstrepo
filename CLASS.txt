@@ -1,0 +1,13 @@
+Class :
+ * Class is a blueprint of an object
+ * Class is a set of data and code
+ * If we define a class then we create so many number of objects which belong to that class
+ * Object are nothing but variables of the type class 
+ * Example :
+	class A
+	{
+		public static void main(String[] args)
+		{
+			System.out.println("class A");
+		}
+	}
